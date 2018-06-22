@@ -30,3 +30,5 @@
 /home/igor/Documentos/projeto1/obj/Debug/netcoreapp2.1/projeto1.dll
 /home/igor/Documentos/projeto1/obj/Debug/netcoreapp2.1/projeto1.pdb
 /home/igor/Documentos/projeto1/obj/Debug/netcoreapp2.1/projeto1.csproj.CopyComplete
+/home/igor/Documentos/projeto1/obj/Debug/netcoreapp2.1/Razor/Views/Clientes/Index.g.cshtml.cs
+/home/igor/Documentos/projeto1/obj/Debug/netcoreapp2.1/Razor/Views/Clientes/Incluir.g.cshtml.cs

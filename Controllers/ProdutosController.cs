@@ -11,6 +11,8 @@ namespace projeto1.Controllers
 {
     public class ProdutosController : Controller 
     {
+
+        //Neste exemplo o Controller está enviando diretamente os resultados para o navegador.
         
         public string Index()
         {

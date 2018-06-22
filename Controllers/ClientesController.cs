@@ -12,14 +12,19 @@ namespace projeto1.Controllers
     {
         //Extremidade HTTP = URL 
         
-        public string Index(){
-
-            return "Lista de clientes";
-
+        public IActionResult Index()
+        {
+            //return "Lista de clientes";
+            return View();
         }
 
-        public string Incluir(){
-            return "Inclusão de clientes";
+        public IActionResult Incluir(String nome)
+        {
+            //return "Inclusão de clientes";
+
+            ViewData["nome"] = nome;  //Passando dados recebidos do controller para a view.
+        
+            return View();
         }
     }
 } 
